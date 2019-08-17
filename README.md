@@ -2,9 +2,7 @@
 
 ## 感知器更新规则疑惑
 
-$$
-w_i\leftarrow w_i + \Delta w_i 
-$$
+$$w_i\leftarrow w_i + \Delta w_i$$
 
 $$
 \Delta w_i = \eta (table - y)x_i
